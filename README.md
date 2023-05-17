@@ -3,7 +3,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 <hr>
 
-### [Live Website](https://manikmaity.github.io/3-column-preview-card-component/)
+### [Live Website](https://manikmaity.github.io/stats-preview-card-component/)
 ### [Linkedin](https://www.linkedin.com/in/manikmaity/)
 <hr>
 
@@ -27,13 +27,13 @@ There are challenges in this projects -
 
 ### Screenshot
 #### Desktop Preview
-
-
-
+![stats-component-desktop-preview](https://github.com/ManikMaity/stats-preview-card-component/assets/110734724/b350e3e8-106b-40df-89d4-6bdbe777954f)
 
 
 #### Mobile Preview
-<img src="https://github.com/ManikMaity/3-column-preview-card-component/assets/110734724/af95833a-fe68-4c40-9c8e-6ec337b738f3" width="200" />
+<img src="https://github.com/ManikMaity/stats-preview-card-component/assets/110734724/d2305403-91e7-42e5-97ec-680478762c39" width="200" />
+
+
 
 ### Links
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/profile/ManikMaity)
@@ -43,6 +43,7 @@ There are challenges in this projects -
 
 ### Built with
 - Semantic HTML5 markup
+- Position, media query
 - CSS custom properties
 - Flexbox
 - :hover, :root
